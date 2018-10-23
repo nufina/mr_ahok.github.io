@@ -1,0 +1,79 @@
+/*Import font*/
+@import
+  url(https://fonts.googleapis.com/css?family=Bad+Script|Marck+Script|Lato|Satisfy|Seaweed+Script);
+ 
+
+/*Style for left-side */
+#left-side{
+  background-color: white;
+  /*border: 6px double darkblue;*/
+}
+img {
+  margin-top: 42px;
+  text-align: center;
+}
+.btp h3 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  color: darkblue;
+  background-color: greenyellow;
+  text-align: center;
+  display: inline;
+  line-height: 50px;
+  position: relative;
+}
+.quotes {
+  color: darkblue;
+  margin-top: 20px;
+}
+.quotes p {
+  font-family: 'Bad Script', cursive;
+  margin: 10px;
+}
+/*Style for right-side */
+#right-side {
+  background-color: darkblue;
+}
+.col-sm-6 h1 {
+  font-size: 100px;
+  font-family: 'Lato', sans-serif;
+  margin-top: 30px;
+  color: greenyellow;
+  text-align: right;
+  margin-right: 40px;
+}
+.col-sm-6 h2 {
+  font-family: 'Bad Script', cursive;
+  color: greenyellow;
+  text-align: right;
+  margin-right: 40px;
+}
+
+h3 {
+  color: lightblue;
+  text-align: center;
+  font-family: 'Bad Script', cursive;
+}
+.contents {
+  margin-top: 20px;
+  color: lightblue;
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  padding: 15px 30px;
+}
+/*Style for footer */
+.col-sm-12 {
+  background-color: darkblue;
+  padding: 10px;
+}
+#first-line {
+  background-color: greenyellow;
+}
+.footer {
+  font-size: 16px;
+  color: lightblue;
+  margin-top: 10px;
+  text-align: center;
+  padding: 5px;
+}
