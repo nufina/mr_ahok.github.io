@@ -1,2 +1,2 @@
-# mr_ahok.github.io
+# mrahok.github.io
 Tribute page for Mr. Ahok as a Freecodecamp project.
